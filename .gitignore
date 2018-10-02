@@ -2,5 +2,9 @@
 .Rhistory
 .RData
 /data
+<<<<<<< HEAD
 /trees
 save.Rdata
+=======
+/trees
+>>>>>>> refs/remotes/origin/master
