@@ -1,0 +1,9 @@
+Package: stemmaps
+Title: A collection of stem-maps
+Version: 0.0.0.9000
+Authors@R: person("Justin", "Ziegler", role = c("aut", "cre"), email = "Justin.Ziegler@colostate.edu")
+Description: A collection of X-Y mapped vegetation (stem-maps).
+Depends: R (>= 3.4.o)
+License: GPL3
+Encoding: UTF-8
+LazyData: true
