@@ -3,3 +3,8 @@
 
 # stemmaps
 Collection of (x,y) mapped vegetation (stem-maps)
+
+## wishlist
+1) Create data package in R
+2) A function or two to allow users to yield (X,Y) coordinates from raw Azimuth--Distance field measurements
+3) Shiny app for exploratory analysis of stem-maps
